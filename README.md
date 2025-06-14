@@ -1,4 +1,4 @@
-- » 👋 Hi, I’m @Sebastian | he/him | 21
+- » 👋 Hi, I’m @Sebastian | he/him | 22
 - └ ☕ Coffee enthusiast
 - └ 💻 Full-Stack Developer
 - └ 🖼 Frontend - HTML, CSS, Vue
